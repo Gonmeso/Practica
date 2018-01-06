@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515223818866.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8696BCFA",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1515223818866,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DCE12642",
+        "caption" : "producto",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=producto&cache_key=DCE12642",
+        "displayedObservations" : "339",
+        "environment" : "",
+        "object" : "producto",
+        "preview" : "0",
+        "totalObservations" : "339",
+        "variables" : "9"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

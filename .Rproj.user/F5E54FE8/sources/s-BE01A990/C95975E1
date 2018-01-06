@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515223578591.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C95975E1",
+    "lastKnownWriteTime" : 1515233207,
+    "last_content_update" : 1515233207491,
+    "path" : "D:/Mis Documentos/uni/UOC/Minería de datos/Practica/Knn_Practica.R",
+    "project_path" : "Knn_Practica.R",
+    "properties" : {
+        "cursorPosition" : "46,51",
+        "scrollLine" : "20",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

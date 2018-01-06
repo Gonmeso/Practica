@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515143329314.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2644103593",
+    "id" : "25FE1A50",
+    "lastKnownWriteTime" : 1515223708,
+    "last_content_update" : 1515223708386,
+    "path" : "D:/Mis Documentos/uni/UOC/Minería de datos/Practica/addHeader.R",
+    "project_path" : "addHeader.R",
+    "properties" : {
+        "cursorPosition" : "132,6",
+        "scrollLine" : "77"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
